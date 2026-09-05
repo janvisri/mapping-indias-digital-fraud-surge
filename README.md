@@ -1,4 +1,4 @@
-# Mapping India's Digital Fraud Surge
+# Mapping India's Digital Fraud Surge - INSIGHTRA
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/mapping-indias-digital-fraud-surge/blob/main/notebooks/analysis.ipynb)
 
