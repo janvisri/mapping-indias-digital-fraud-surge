@@ -1,4 +1,4 @@
-# Mapping India's Digital Fraud Surge - INSIGHTRA
+# Mapping India's Digital Fraud Surge
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/mapping-indias-digital-fraud-surge/blob/main/notebooks/analysis.ipynb)
 
@@ -49,7 +49,7 @@ mapping-indias-digital-fraud-surge/
 **Locally:**
 
 ```bash
-git clone https://github.com/janvisri/mapping-indias-digital-fraud-surge.git
+git clone https://github.com/YOUR-USERNAME/mapping-indias-digital-fraud-surge.git
 cd mapping-indias-digital-fraud-surge
 pip install -r requirements.txt
 
@@ -59,7 +59,9 @@ python generate_data.py
 jupyter notebook notebooks/analysis.ipynb
 ```
 
+**In Google Colab:** click the badge at the top of this README (or of the notebook itself). The notebook's first cell detects that it's running in Colab, clones this repo, and `cd`s into `notebooks/` so the relative path to `data/cyber_fraud_data.csv` resolves the same way it does locally.
 
+> Replace `YOUR-USERNAME` in the badge URL and the clone command above with your actual GitHub username once you push this repo.
 
 ## What I'd do next with more time / real data
 
