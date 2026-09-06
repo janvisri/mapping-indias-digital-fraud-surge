@@ -1,0 +1,1082 @@
+state_ut,year,fraud_type,cases_registered,cases_chargesheeted,cases_convicted,persons_arrested,amount_saved_inr,complaints_count
+Karnataka,2021,Online Banking Fraud,91,55,5.0,97,4895184.34,108
+Rajasthan,2022,UPI Fraud,232,91,7.0,168,1286174.47,343
+Madhya Pradesh,2023,UPI Fraud,398,147,12.0,125,3474913.44,501
+Chhattisgarh,2022,OTP Fraud,37,13,1.0,17,463908.8,59
+Telangana,2024,Other,127,68,6.0,60,1412782.46,217
+Assam,2022,Online Banking Fraud,29,18,1.0,28,1188886.93,52
+Maharashtra,2024,Card Fraud,205,110,12.0,120,6140997.2,304
+Karnataka,2024,Card Fraud,175,99,10.0,154,3362449.23,307
+Puducherry,2024,Other,7,4,0.0,5,176348.53,11
+Tripura,2024,UPI Fraud,35,19,1.0,32,409712.84,56
+Arunachal Pradesh,2024,Identity Theft,4,2,0.0,2,172033.54,5
+Madhya Pradesh,2022,OTP Fraud,126,56,5.0,102,1736566.12,201
+Tamil Nadu,2022,Card Fraud,97,56,6.0,77,2642813.04,155
+Rajasthan,2019,Other,17,9,1.0,16,318116.04,29
+Delhi,2021,UPI Fraud,141,55,4.0,54,773388.59,226
+Sikkim,2021,Online Banking Fraud,3,2,0.0,2,165956.82,4
+Karnataka,2020,Other,29,12,1.0,21,555267.99,39
+Odisha,2021,Identity Theft,17,9,2.0,14,1025791.5,23
+Punjab,2024,UPI Fraud,312,141,9.0,219,1918746.86,512
+Tripura,2023,Other,5,3,0.0,4,114165.59,7
+Nagaland,2019,OTP Fraud,1,0,0.0,0,13384.18,2
+Kerala,2019,Online Banking Fraud,39,24,2.0,24,2894325.19,64
+Delhi,2021,Identity Theft,51,24,3.0,36,3610896.02,67
+Sikkim,2021,UPI Fraud,3,2,0.0,3,34972.38,4
+Chhattisgarh,2021,Other,6,4,0.0,4,130293.02,7
+Mizoram,2024,Online Banking Fraud,5,3,0.0,3,300577.65,7
+Mizoram,2023,Card Fraud,5,3,0.0,4,134253.1,7
+Madhya Pradesh,2021,UPI Fraud,87,49,2.0,42,813623.19,145
+Kerala,2024,Identity Theft,71,53,4.0,52,6345493.23,85
+Kerala,2023,OTP Fraud,144,57,5.0,87,2324257.71,233
+Nagaland,2022,Card Fraud,4,2,0.0,2,94491.38,6
+Uttarakhand,2022,Identity Theft,17,11,1.0,13,760331.42,30
+Goa,2019,OTP Fraud,10,5,1.0,8,193134.72,17
+West Bengal,2020,Card Fraud,41,25,3.0,32,627393.99,71
+Manipur,2019,Other,1,0,0.0,0,11825.92,1
+Jharkhand,2022,Online Banking Fraud,26,16,1.0,17,1856426.3,36
+Madhya Pradesh,2023,OTP Fraud,187,64,6.0,120,2047877.49,301
+Nagaland,2019,Online Banking Fraud,1,1,0.0,1,38759.17,1
+Haryana,2020,Identity Theft,30,13,2.0,17,1929723.3,43
+Mizoram,2024,Other,4,2,0.0,2,92937.13,6
+Arunachal Pradesh,2021,UPI Fraud,4,2,0.0,3,29298.23,6
+Assam,2022,Other,12,6,0.0,6,143000.93,15
+Jharkhand,2022,Identity Theft,17,8,0.0,8,1238322.47,22
+Manipur,2024,OTP Fraud,11,5,0.0,5,193350.02,14
+Telangana,2024,Card Fraud,204,125,12.0,118,5791859.25,371
+Uttarakhand,2019,Card Fraud,6,4,0.0,7,169065.3,7
+Sikkim,2019,Online Banking Fraud,2,1,0.0,2,153897.01,3
+Maharashtra,2019,OTP Fraud,142,65,5.0,94,1396454.87,220
+West Bengal,2023,Online Banking Fraud,114,57,8.0,49,8442305.41,169
+Karnataka,2022,UPI Fraud,304,146,10.0,176,2497334.59,416
+Punjab,2020,UPI Fraud,28,12,1.0,19,187754.41,37
+Bihar,2021,Identity Theft,22,13,0.0,15,1084190.79,31
+Goa,2021,UPI Fraud,11,4,1.0,3,73997.35,15
+Uttarakhand,2020,UPI Fraud,11,4,0.0,4,78427.72,17
+Goa,2022,Online Banking Fraud,10,6,1.0,7,,18
+Tamil Nadu,2023,Identity Theft,96,62,7.0,71,4813335.54,113
+Karnataka,2024,OTP Fraud,313,188,11.0,294,5593254.69,408
+Uttar Pradesh,2022,Identity Theft,111,60,3.0,108,5343493.31,161
+Karnataka,2021,Card Fraud,91,60,4.0,94,2238978.14,159
+Punjab,2023,Other,34,17,2.0,20,416747.25,56
+Himachal Pradesh,2021,Online Banking Fraud,10,5,1.0,5,491342.53,15
+Bihar,2024,Other,45,24,1.0,28,976777.62,65
+Telangana,2022,Other,87,29,4.0,46,1342787.58,108
+Uttarakhand,2020,Card Fraud,10,7,1.0,10,264177.54,13
+Andhra Pradesh,2023,Identity Theft,37,19,2.0,23,2351294.48,53
+Haryana,2023,Card Fraud,85,46,5.0,50,1811298.85,114
+Gujarat,2023,Other,73,43,3.0,74,1333777.54,112
+Mizoram,2021,Card Fraud,2,1,0.0,1,53341.25,3
+Goa,2021,Other,3,1,0.0,1,39032.14,4
+Odisha,2023,Card Fraud,42,25,3.0,44,836682.3,54
+Himachal Pradesh,2022,UPI Fraud,30,13,1.0,20,269502.58,52
+Manipur,2024,Card Fraud,6,3,0.0,4,175077.74,9
+Nagaland,2022,OTP Fraud,8,3,0.0,4,152413.62,10
+Jharkhand,2021,UPI Fraud,20,9,0.0,17,121184.62,31
+Tripura,2019,Card Fraud,2,1,0.0,1,44101.2,3
+Rajasthan,2022,OTP Fraud,159,77,6.0,102,2947555.8,226
+Meghalaya,2024,Other,4,2,0.0,3,94596.84,6
+Uttarakhand,2024,OTP Fraud,41,20,1.0,34,356942.64,69
+Madhya Pradesh,2023,Other,72,35,3.0,40,1122732.71,96
+Odisha,2024,OTP Fraud,69,37,4.0,42,752319.73,88
+Assam,2020,Online Banking Fraud,21,11,1.0,19,921474.78,29
+Madhya Pradesh,2022,Online Banking Fraud,89,53,5.0,59,4969955.31,152
+Jharkhand,2019,Card Fraud,10,6,0.0,11,202760.41,16
+Arunachal Pradesh,2019,OTP Fraud,4,2,0.0,2,69251.33,6
+Nagaland,2023,UPI Fraud,26,13,1.0,20,212940.1,39
+Goa,2020,Other,3,2,0.0,2,73067.05,5
+Sikkim,2022,Other,2,1,0.0,1,25378.7,3
+Andhra Pradesh,2021,OTP Fraud,59,18,2.0,17,618600.49,91
+Himachal Pradesh,2024,Other,11,6,1.0,6,193160.11,14
+Tripura,2019,UPI Fraud,2,1,0.0,2,13882.93,3
+Tamil Nadu,2024,UPI Fraud,650,158,22.0,222,5924367.07,792
+Goa,2019,Identity Theft,2,1,0.0,1,187228.72,3
+Goa,2021,Identity Theft,5,3,0.0,3,218458.79,6
+Uttarakhand,2021,Online Banking Fraud,19,11,1.0,15,813458.2,23
+Meghalaya,2020,Other,1,1,0.0,2,11629.46,1
+Himachal Pradesh,2024,Identity Theft,12,7,1.0,12,745256.62,18
+Jharkhand,2023,Other,17,11,0.0,16,255723.25,24
+Andhra Pradesh,2021,Card Fraud,23,13,1.0,11,704702.49,29
+Madhya Pradesh,2019,Card Fraud,29,19,2.0,23,764107.49,44
+Sikkim,2019,Other,1,1,0.0,1,17151.51,1
+Goa,2022,UPI Fraud,23,8,1.0,8,224934.61,38
+Rajasthan,2023,Online Banking Fraud,103,58,5.0,106,4715411.56,153
+Uttar Pradesh,2024,Online Banking Fraud,310,177,7.0,248,11256870.57,413
+Haryana,2024,Card Fraud,101,52,5.0,58,2084266.34,174
+Gujarat,2020,Other,22,13,1.0,13,251844.67,27
+Andhra Pradesh,2022,OTP Fraud,85,35,3.0,59,1634412.52,112
+Jharkhand,2021,Other,7,3,0.0,5,158035.85,9
+Uttarakhand,2019,OTP Fraud,17,8,1.0,7,230712.86,24
+Maharashtra,2023,Card Fraud,173,116,9.0,151,2801594.79,311
+Delhi,2022,Other,58,35,3.0,48,806266.31,70
+Karnataka,2022,Card Fraud,90,64,5.0,60,2064766.47,138
+Himachal Pradesh,2024,Online Banking Fraud,17,10,1.0,9,987721.27,21
+Assam,2019,Online Banking Fraud,17,9,1.0,14,1063546.93,20
+Meghalaya,2024,Online Banking Fraud,6,3,0.0,3,349193.89,10
+Kerala,2019,UPI Fraud,19,7,1.0,12,115289.03,28
+Uttar Pradesh,2023,UPI Fraud,918,334,12.0,494,10700183.84,1574
+Chhattisgarh,2020,UPI Fraud,12,5,0.0,7,66020.38,14
+Tamil Nadu,2020,Other,30,14,1.0,23,755234.7,43
+Sikkim,2020,UPI Fraud,2,1,0.0,2,14692.91,2
+Himachal Pradesh,2020,Card Fraud,6,4,0.0,6,169906.84,10
+West Bengal,2023,Identity Theft,80,50,5.0,53,6850384.75,139
+Rajasthan,2020,OTP Fraud,104,58,4.0,105,975822.13,178
+West Bengal,2020,Online Banking Fraud,87,48,6.0,46,6050934.68,154
+Bihar,2021,Other,14,7,0.0,9,302664.53,20
+Jharkhand,2021,Card Fraud,16,8,0.0,9,483440.73,23
+Gujarat,2019,Card Fraud,36,24,2.0,26,1053857.49,61
+Tripura,2019,Online Banking Fraud,4,2,0.0,2,216677.67,5
+Rajasthan,2021,Card Fraud,54,26,3.0,32,859343.01,76
+Tamil Nadu,2024,Identity Theft,95,59,7.0,97,5418000.88,142
+Gujarat,2023,Card Fraud,112,66,7.0,67,1943390.81,142
+Tripura,2022,Other,3,2,0.0,3,71331.04,4
+Bihar,2024,Card Fraud,59,36,1.0,46,1807464.76,77
+Pondicherry,2020,Card Fraud,4,2,0.0,2,64485.9,6
+Uttarakhand,2019,Identity Theft,5,3,0.0,4,349774.38,7
+Rajasthan,2023,OTP Fraud,198,52,9.0,78,2079799.94,245
+Manipur,2023,OTP Fraud,11,5,0.0,7,,13
+Meghalaya,2022,Other,2,1,0.0,1,39238.43,4
+Mizoram,2024,Identity Theft,4,2,0.0,3,204083.49,7
+Punjab,2021,Online Banking Fraud,41,18,2.0,24,2231515.68,49
+Chhattisgarh,2019,Online Banking Fraud,16,7,1.0,11,620333.24,26
+Sikkim,2021,Other,1,0,0.0,0,24272.74,1
+Arunachal Pradesh,2020,UPI Fraud,2,1,0.0,1,16815.5,3
+Manipur,2024,UPI Fraud,32,15,0.0,13,335882.95,45
+Punjab,2021,Card Fraud,24,13,1.0,16,688076.45,37
+Assam,2023,Online Banking Fraud,35,15,2.0,27,2658933.18,55
+Haryana,2019,OTP Fraud,82,39,3.0,31,724196.97,109
+Uttar Pradesh,2019,OTP Fraud,197,80,3.0,108,2744038.07,234
+Puducherry,2024,Identity Theft,9,6,1.0,7,481055.28,14
+Assam,2019,Identity Theft,6,4,0.0,6,461511.58,10
+Manipur,2019,OTP Fraud,5,2,0.0,4,44526.43,6
+Maharashtra,2023,Identity Theft,122,68,8.0,122,11466194.33,167
+Karnataka,2020,Card Fraud,79,41,4.0,51,1113632.66,96
+Puducherry,2024,UPI Fraud,47,21,1.0,26,375085.03,64
+Sikkim,2022,UPI Fraud,8,3,0.0,4,80744.57,14
+Rajasthan,2021,OTP Fraud,123,60,5.0,78,1295521.91,202
+Karnataka,2019,UPI Fraud,40,21,1.0,34,497279.25,62
+West Bengal,2020,Identity Theft,33,18,3.0,22,2114267.4,53
+Sikkim,2020,Card Fraud,1,1,0.0,1,28351.6,1
+Uttar Pradesh,2024,Other,159,89,4.0,124,2077772.78,232
+Meghalaya,2022,Card Fraud,4,2,0.0,2,88750.51,6
+Tamil Nadu,2024,OTP Fraud,250,143,11.0,139,4022827.76,400
+Gujarat,2023,OTP Fraud,178,61,8.0,97,2066749.22,229
+Mizoram,2021,Identity Theft,2,1,0.0,1,152412.35,3
+Sikkim,2019,OTP Fraud,3,2,0.0,3,53088.64,4
+Karnataka,2019,Online Banking Fraud,99,50,5.0,51,7517306.12,161
+Odisha,2021,Online Banking Fraud,27,12,2.0,18,976018.63,33
+Pondicherry,2020,Other,2,1,0.0,2,39388.61,3
+Kerala,2019,Card Fraud,26,18,1.0,15,438379.92,37
+Chhattisgarh,2019,Other,4,1,0.0,1,52046.2,5
+Jharkhand,2022,OTP Fraud,39,20,1.0,17,505202.07,52
+Telangana,2020,Other,34,16,1.0,20,776438.51,59
+Delhi,2024,Other,115,64,6.0,92,2061547.47,140
+Nagaland,2022,UPI Fraud,11,3,0.0,4,70752.7,13
+Uttarakhand,2021,Other,8,3,0.0,5,112456.96,11
+Karnataka,2020,Online Banking Fraud,90,66,5.0,58,3644463.59,158
+Tamil Nadu,2020,Online Banking Fraud,115,74,6.0,118,4130975.29,142
+Pondicherry,2021,Online Banking Fraud,7,4,0.0,4,385922.54,9
+Uttar Pradesh,2021,Online Banking Fraud,152,116,4.0,106,6114526.65,258
+Karnataka,2021,Other,40,19,2.0,27,826160.15,70
+Uttar Pradesh,2020,OTP Fraud,220,99,4.0,118,3242107.1,326
+Gujarat,2019,Online Banking Fraud,66,40,3.0,41,4502894.83,90
+Manipur,2020,Card Fraud,3,2,0.0,2,61081.99,4
+West Bengal,2019,Online Banking Fraud,62,26,4.0,31,2293099.67,100
+Mizoram,2023,OTP Fraud,8,3,0.0,4,122302.9,13
+Punjab,2019,UPI Fraud,14,8,0.0,8,96604.64,18
+Maharashtra,2020,Other,40,21,2.0,22,830525.81,53
+Punjab,2021,Other,18,8,1.0,14,274641.01,30
+Kerala,2021,Online Banking Fraud,46,27,3.0,24,1904031.77,62
+Andhra Pradesh,2022,UPI Fraud,103,40,3.0,71,961867.23,129
+Rajasthan,2024,UPI Fraud,539,248,16.0,432,5819172.78,846
+Nagaland,2022,Other,2,1,0.0,1,39029.09,3
+Tamil Nadu,2020,UPI Fraud,70,32,2.0,48,846297.97,83
+Uttarakhand,2020,Identity Theft,6,3,0.0,3,500913.92,8
+NCT of Delhi,2020,OTP Fraud,148,68,5.0,104,1439919.6,178
+Meghalaya,2021,Online Banking Fraud,3,2,0.0,3,187039.01,5
+Arunachal Pradesh,2020,Card Fraud,2,1,0.0,2,34437.44,2
+Chhattisgarh,2024,Identity Theft,22,12,1.0,20,1457690.76,35
+Andhra Pradesh,2024,Identity Theft,42,25,2.0,34,2868239.38,54
+Rajasthan,2023,Identity Theft,68,44,5.0,80,4995630.8,102
+Arunachal Pradesh,2023,Identity Theft,3,2,0.0,3,168085.52,4
+Goa,2020,OTP Fraud,10,5,1.0,8,131064.92,16
+Punjab,2024,Identity Theft,49,31,3.0,33,3096622.1,61
+Assam,2020,Other,6,4,0.0,5,110184.47,9
+Telangana,2019,UPI Fraud,44,16,1.0,25,444371.16,52
+Andhra Pradesh,2021,Identity Theft,19,12,1.0,10,950361.33,30
+Punjab,2023,UPI Fraud,244,73,8.0,106,2083997.89,337
+Goa,2023,Online Banking Fraud,11,4,1.0,4,393377.43,20
+Haryana,2023,Other,60,27,3.0,50,1185121.51,80
+Jharkhand,2024,Identity Theft,23,13,1.0,21,1603364.95,30
+Chhattisgarh,2020,Identity Theft,7,4,0.0,6,494817.3,9
+Gujarat,2021,Other,32,19,2.0,32,776302.03,46
+Karnataka,2023,Identity Theft,104,63,6.0,112,9911472.18,153
+Assam,2024,UPI Fraud,169,68,5.0,121,1102300.69,202
+Karnataka,2023,OTP Fraud,321,65,13.0,80,6080107.36,496
+Uttarakhand,2021,OTP Fraud,25,13,1.0,10,352025.57,30
+NCT of Delhi,2020,Card Fraud,61,49,3.0,76,1825652.8,76
+Uttarakhand,2024,Card Fraud,38,25,2.0,24,954614.78,57
+Sikkim,2022,Online Banking Fraud,3,1,0.0,1,145908.11,4
+Andhra Pradesh,2022,Card Fraud,36,25,2.0,35,893038.47,43
+Andhra Pradesh,2023,Other,30,15,1.0,12,540532.74,37
+Goa,2022,OTP Fraud,17,7,1.0,7,204338.67,23
+Punjab,2020,Other,13,6,1.0,5,287715.38,19
+Bihar,2023,Identity Theft,38,19,1.0,30,2593063.82,68
+Punjab,2020,Identity Theft,19,11,1.0,12,1512373.35,30
+Rajasthan,2020,Identity Theft,31,16,2.0,29,1423718.65,43
+Assam,2023,UPI Fraud,125,49,4.0,62,1383134.66,152
+Mizoram,2020,OTP Fraud,5,2,0.0,4,97720.53,9
+Tripura,2020,Identity Theft,2,1,0.0,1,171669.27,3
+Gujarat,2020,Identity Theft,30,15,2.0,19,2209982.74,52
+Rajasthan,2024,Online Banking Fraud,126,77,7.0,111,8681521.81,156
+Himachal Pradesh,2020,Other,3,2,0.0,2,56145.89,5
+Assam,2019,Card Fraud,10,6,1.0,10,178821.43,16
+Delhi,2022,Online Banking Fraud,133,64,7.0,96,5845444.17,239
+Meghalaya,2019,OTP Fraud,4,1,0.0,2,40577.94,6
+Karnataka,2020,OTP Fraud,144,79,5.0,144,1395372.07,200
+Uttar Pradesh,2019,Identity Theft,34,21,1.0,17,1847180.62,45
+Jharkhand,2022,UPI Fraud,50,16,1.0,19,602259.63,82
+Meghalaya,2019,UPI Fraud,1,0,0.0,0,7973.06,2
+Punjab,2019,Online Banking Fraud,33,10,2.0,13,1701404.32,58
+Uttar Pradesh,2024,Card Fraud,271,132,8.0,124,5331047.76,371
+Andhra Pradesh,2019,OTP Fraud,44,16,1.0,28,554135.83,76
+Telangana,2022,Online Banking Fraud,179,91,10.0,114,7875895.67,252
+Jharkhand,2021,Identity Theft,10,6,0.0,9,575406.23,15
+Himachal Pradesh,2023,UPI Fraud,64,21,2.0,32,408547.31,82
+Kerala,2020,Card Fraud,33,19,2.0,34,959766.17,41
+Tamil Nadu,2024,Other,88,30,4.0,44,1442752.22,125
+Uttar Pradesh,2021,OTP Fraud,181,116,3.0,192,3063003.88,281
+Tripura,2021,OTP Fraud,9,5,0.0,5,169524.9,12
+Goa,2021,OTP Fraud,9,5,1.0,5,104662.51,15
+Assam,2020,Card Fraud,13,7,1.0,6,231634.48,19
+Sikkim,2020,Identity Theft,1,1,0.0,2,51059.82,1
+Uttarakhand,2023,UPI Fraud,101,42,3.0,46,857423.42,151
+Tamil Nadu,2021,Online Banking Fraud,88,54,5.0,72,3048465.45,111
+Jharkhand,2023,UPI Fraud,117,60,1.0,93,1255299.17,180
+Himachal Pradesh,2020,Online Banking Fraud,10,5,1.0,9,649308.43,18
+Kerala,2021,Identity Theft,31,19,2.0,30,2890680.27,39
+Maharashtra,2022,Identity Theft,104,60,6.0,85,4485987.02,130
+Maharashtra,2021,UPI Fraud,165,77,4.0,89,993032.82,265
+Arunachal Pradesh,2020,Other,1,0,0.0,0,19269.31,2
+Kerala,2024,OTP Fraud,132,59,5.0,100,1968352.07,187
+Uttar Pradesh,2019,Online Banking Fraud,98,55,2.0,103,6273262.85,141
+Rajasthan,2021,Online Banking Fraud,64,29,3.0,46,4094798.8,80
+Telangana,2019,Card Fraud,61,28,3.0,49,1760595.57,95
+Puducherry,2022,Identity Theft,6,3,0.0,3,502691.02,8
+Meghalaya,2020,Online Banking Fraud,4,2,0.0,3,247690.78,5
+Meghalaya,2023,UPI Fraud,24,11,1.0,17,230596.61,34
+Arunachal Pradesh,2024,OTP Fraud,8,4,0.0,5,108233.31,14
+Tamil Nadu,2021,OTP Fraud,162,55,6.0,90,2523731.83,215
+Goa,2020,Identity Theft,3,2,0.0,2,203286.3,5
+Telangana,2020,UPI Fraud,80,32,3.0,38,674657.35,138
+Haryana,2021,Other,28,13,1.0,19,535914.56,47
+Nagaland,2020,Card Fraud,1,1,0.0,1,17292.92,1
+Himachal Pradesh,2019,Card Fraud,6,4,0.0,7,111492.5,8
+Madhya Pradesh,2024,UPI Fraud,566,222,15.0,192,5567078.73,724
+Kerala,2024,UPI Fraud,342,180,10.0,294,3167411.28,507
+Nagaland,2021,Identity Theft,3,2,0.0,3,161485.13,5
+Odisha,2023,Other,27,15,2.0,28,554715.98,34
+West Bengal,2023,Card Fraud,114,66,8.0,82,2934322.45,154
+Odisha,2022,OTP Fraud,74,30,3.0,28,1275640.92,117
+Goa,2020,Online Banking Fraud,7,3,1.0,5,486084.94,9
+Sikkim,2022,Identity Theft,2,1,0.0,2,170134.93,3
+Odisha,2021,Other,10,3,1.0,3,143811.41,18
+Maharashtra,2022,UPI Fraud,328,158,10.0,240,3207357.25,392
+Puducherry,2023,Card Fraud,9,8,0.0,9,186185.81,14
+Jharkhand,2019,Identity Theft,6,3,0.0,5,276887.71,9
+Haryana,2024,UPI Fraud,412,255,14.0,444,2384141.26,517
+Tripura,2024,Card Fraud,6,4,0.0,5,91178.37,9
+Odisha,2023,Identity Theft,28,15,3.0,27,2188911.47,34
+Mizoram,2020,Identity Theft,1,1,0.0,1,94909.09,1
+Gujarat,2022,Card Fraud,80,46,5.0,65,1926904.65,141
+Andhra Pradesh,2022,Online Banking Fraud,44,26,2.0,27,2805788.29,67
+Arunachal Pradesh,2019,UPI Fraud,1,0,0.0,0,9553.4,1
+Odisha,2019,Other,6,3,0.0,5,66343.19,7
+Rajasthan,2020,Online Banking Fraud,95,63,5.0,96,5999197.11,151
+Sikkim,2021,Card Fraud,2,2,0.0,2,44209.95,3
+Andhra Pradesh,2020,Other,13,7,1.0,8,211580.1,19
+Chhattisgarh,2023,Card Fraud,28,17,1.0,19,669444.34,43
+Rajasthan,2023,UPI Fraud,372,211,11.0,343,2375290.25,492
+Telangana,2022,OTP Fraud,269,86,12.0,101,2802969.69,352
+Himachal Pradesh,2021,UPI Fraud,13,6,0.0,6,91737.66,15
+Tripura,2024,OTP Fraud,11,4,0.0,5,93550.02,14
+Chhattisgarh,2022,UPI Fraud,42,22,1.0,38,268788.66,51
+NCT of Delhi,2019,Online Banking Fraud,90,48,5.0,49,5221536.07,109
+Puducherry,2024,Online Banking Fraud,10,7,1.0,9,429526.2,16
+Bihar,2024,OTP Fraud,109,49,2.0,74,1268919.22,186
+West Bengal,2021,UPI Fraud,88,38,3.0,44,654803.77,122
+Andhra Pradesh,2020,Online Banking Fraud,35,13,2.0,19,2681516.73,56
+Punjab,2023,OTP Fraud,110,43,3.0,51,1804436.68,184
+Telangana,2021,UPI Fraud,169,73,4.0,76,1904141.05,281
+Madhya Pradesh,2020,OTP Fraud,79,39,3.0,59,963561.23,106
+Meghalaya,2020,OTP Fraud,5,2,0.0,3,95136.93,6
+Odisha,2021,OTP Fraud,43,20,2.0,36,511508.68,51
+Bihar,2024,UPI Fraud,260,119,3.0,108,1591816.48,334
+NCT of Delhi,2020,Identity Theft,33,17,3.0,21,2890116.18,43
+West Bengal,2023,OTP Fraud,202,92,9.0,99,3124438.07,339
+Kerala,2023,Online Banking Fraud,74,37,4.0,63,5248102.52,103
+West Bengal,2024,Identity Theft,93,69,7.0,116,8095806.6,125
+Haryana,2020,Online Banking Fraud,56,33,4.0,45,2986929.62,86
+Bihar,2023,Other,32,13,1.0,20,417560.94,53
+West Bengal,2021,Card Fraud,48,23,3.0,20,1351919.66,59
+Madhya Pradesh,2019,Online Banking Fraud,38,18,2.0,25,2103698.55,56
+Tamil Nadu,2019,Card Fraud,43,23,3.0,23,715316.41,76
+Karnataka,2019,OTP Fraud,117,48,5.0,72,2197238.61,141
+Goa,2023,UPI Fraud,49,29,2.0,49,308815.02,85
+Uttarakhand,2020,Online Banking Fraud,14,7,1.0,13,538287.71,23
+Manipur,2020,UPI Fraud,2,1,0.0,1,24181.09,3
+West Bengal,2021,Online Banking Fraud,88,43,6.0,79,3446775.96,105
+Karnataka,2023,Card Fraud,151,73,11.0,132,3068845.66,221
+Goa,2023,OTP Fraud,22,9,1.0,9,195606.68,32
+Jharkhand,2019,Online Banking Fraud,17,8,0.0,14,939310.21,22
+Manipur,2019,Online Banking Fraud,4,2,0.0,3,276418.05,6
+Odisha,2022,Online Banking Fraud,33,21,3.0,30,1358381.12,44
+Pondicherry,2019,Online Banking Fraud,5,2,0.0,2,232833.3,9
+Rajasthan,2024,OTP Fraud,205,109,8.0,194,3883325.77,333
+Telangana,2021,Identity Theft,66,42,4.0,44,3991769.97,95
+Maharashtra,2024,Other,127,52,6.0,81,1995657.53,179
+Manipur,2022,OTP Fraud,9,5,0.0,7,108019.53,11
+Assam,2024,Identity Theft,28,13,2.0,23,1884397.0,44
+Arunachal Pradesh,2023,Online Banking Fraud,5,2,0.0,3,358678.07,6
+Manipur,2023,Card Fraud,6,4,0.0,5,88332.73,8
+NCT of Delhi,2019,UPI Fraud,28,13,1.0,22,235199.87,43
+Kerala,2020,Identity Theft,23,12,2.0,16,2019371.88,30
+Bihar,2023,Card Fraud,45,25,1.0,44,,80
+Andhra Pradesh,2019,Card Fraud,17,11,1.0,18,450168.28,29
+West Bengal,2019,Card Fraud,36,19,2.0,20,650204.99,43
+Manipur,2020,Other,2,1,0.0,2,25897.76,2
+Himachal Pradesh,2022,Online Banking Fraud,13,11,1.0,18,902686.23,19
+Andhra Pradesh,2020,Identity Theft,15,10,1.0,12,1361416.03,20
+Tripura,2024,Online Banking Fraud,9,5,1.0,4,302087.11,15
+Maharashtra,2022,Online Banking Fraud,155,83,8.0,110,6855524.7,277
+Sikkim,2024,Online Banking Fraud,4,2,0.0,3,244349.04,7
+Madhya Pradesh,2020,Card Fraud,27,16,1.0,24,684523.49,49
+Arunachal Pradesh,2022,OTP Fraud,6,2,0.0,3,51768.76,9
+Nagaland,2020,Online Banking Fraud,1,1,0.0,1,56650.34,1
+Nagaland,2021,Other,1,1,0.0,1,20675.96,1
+Meghalaya,2024,UPI Fraud,33,9,1.0,17,414457.22,48
+Delhi,2022,Identity Theft,67,37,4.0,70,3697502.84,82
+Manipur,2021,Identity Theft,2,1,0.0,1,101755.36,3
+Gujarat,2024,Card Fraud,122,82,7.0,82,2565979.79,201
+Mizoram,2022,OTP Fraud,8,3,0.0,6,80869.88,11
+Sikkim,2019,Card Fraud,2,1,0.0,2,39873.97,2
+Sikkim,2024,UPI Fraud,18,5,1.0,7,164511.14,22
+Kerala,2020,Online Banking Fraud,49,31,3.0,37,1940273.83,60
+Tamil Nadu,2022,Online Banking Fraud,120,76,6.0,78,6725570.91,189
+Odisha,2020,Card Fraud,17,9,2.0,12,417007.15,20
+Assam,2021,Online Banking Fraud,20,10,1.0,15,916867.07,35
+Haryana,2019,UPI Fraud,20,8,1.0,8,129148.38,25
+Delhi,2021,Online Banking Fraud,92,40,5.0,57,3209963.31,160
+Assam,2020,UPI Fraud,15,7,1.0,13,146505.47,20
+Tamil Nadu,2022,Other,58,24,3.0,28,865913.82,98
+Kerala,2021,UPI Fraud,66,28,2.0,31,403686.98,90
+Goa,2019,Online Banking Fraud,6,3,0.0,5,244247.67,9
+Bihar,2022,OTP Fraud,75,30,1.0,51,1343712.05,118
+West Bengal,2024,OTP Fraud,186,101,9.0,123,2255740.75,295
+Goa,2022,Other,5,3,0.0,4,80898.55,8
+Arunachal Pradesh,2020,OTP Fraud,4,2,0.0,4,35060.14,7
+Gujarat,2023,Identity Theft,102,71,8.0,122,5535594.44,134
+Maharashtra,2020,OTP Fraud,151,81,6.0,151,2595521.88,180
+Kerala,2023,Card Fraud,73,43,4.0,39,2019539.17,105
+Meghalaya,2021,Card Fraud,3,2,0.0,3,54282.31,4
+Madhya Pradesh,2022,UPI Fraud,199,78,6.0,107,1824195.05,241
+Jharkhand,2020,OTP Fraud,32,16,1.0,20,519077.32,38
+Assam,2024,Online Banking Fraud,35,23,2.0,41,1593227.13,57
+Meghalaya,2022,OTP Fraud,8,3,0.0,5,91201.65,11
+Maharashtra,2021,Card Fraud,90,51,5.0,65,1613325.62,152
+West Bengal,2024,UPI Fraud,467,217,17.0,357,5521193.67,654
+Mizoram,2019,Other,1,1,0.0,1,12998.74,1
+Meghalaya,2024,Identity Theft,4,2,0.0,2,198610.04,5
+Tamil Nadu,2021,Other,39,21,2.0,32,667762.12,51
+Arunachal Pradesh,2021,Card Fraud,3,2,0.0,3,65175.49,5
+Goa,2024,Identity Theft,11,7,1.0,11,1004797.84,19
+Manipur,2023,Identity Theft,4,2,0.0,2,309695.95,7
+Uttarakhand,2021,Identity Theft,9,5,1.0,5,864431.63,12
+Gujarat,2021,Identity Theft,39,23,2.0,23,3763793.53,49
+West Bengal,2019,UPI Fraud,25,11,1.0,11,231091.2,44
+Mizoram,2024,UPI Fraud,24,7,1.0,12,248953.79,41
+NCT of Delhi,2019,Other,28,13,1.0,14,328586.54,49
+Mizoram,2020,Other,1,1,0.0,1,23103.26,2
+Chhattisgarh,2022,Online Banking Fraud,21,10,1.0,11,1595009.6,38
+Bihar,2020,OTP Fraud,49,20,1.0,28,574521.42,86
+Arunachal Pradesh,2020,Identity Theft,1,1,0.0,2,61864.62,1
+Tamil Nadu,2022,Identity Theft,81,45,5.0,84,4195423.3,136
+Rajasthan,2021,Other,31,16,1.0,17,651574.15,40
+Chhattisgarh,2023,Other,12,7,1.0,12,230621.16,22
+Odisha,2021,Card Fraud,19,10,2.0,8,515593.73,28
+Himachal Pradesh,2022,Card Fraud,13,7,1.0,10,321096.82,20
+Goa,2023,Identity Theft,7,5,1.0,9,501916.62,12
+Uttarakhand,2022,Card Fraud,21,14,1.0,14,543363.91,29
+Manipur,2022,Identity Theft,4,2,0.0,2,315970.74,5
+Arunachal Pradesh,2024,Other,4,2,0.0,2,69264.48,6
+Delhi,2023,Online Banking Fraud,152,97,7.0,132,11599092.11,246
+Tripura,2021,Other,2,1,0.0,1,26732.36,4
+Meghalaya,2024,Card Fraud,5,3,0.0,4,72607.87,7
+Haryana,2024,Identity Theft,88,47,5.0,42,7111585.85,109
+Rajasthan,2022,Identity Theft,60,34,4.0,36,5424553.28,95
+Sikkim,2023,Online Banking Fraud,4,2,0.0,4,232758.17,5
+Bihar,2023,Online Banking Fraud,62,26,1.0,48,2364367.67,75
+Bihar,2019,Other,9,5,0.0,7,129025.36,16
+Chhattisgarh,2020,OTP Fraud,22,12,1.0,17,215985.32,28
+Tripura,2022,OTP Fraud,9,3,0.0,5,85224.73,12
+Tripura,2023,Card Fraud,7,5,0.0,6,141194.46,12
+Telangana,2020,OTP Fraud,170,66,6.0,91,1751639.1,214
+Tamil Nadu,2023,Other,73,31,3.0,44,1254785.46,117
+Uttarakhand,2019,Online Banking Fraud,12,7,0.0,12,539925.67,21
+Sikkim,2019,Identity Theft,1,1,0.0,2,71499.3,1
+Telangana,2020,Identity Theft,51,31,3.0,41,2739696.1,64
+Mizoram,2021,Online Banking Fraud,3,1,0.0,1,157217.53,4
+Haryana,2021,Online Banking Fraud,67,43,3.0,50,2521299.39,89
+Punjab,2022,OTP Fraud,87,36,3.0,57,1656093.21,116
+Himachal Pradesh,2021,Other,4,2,0.0,2,63302.64,5
+Bihar,2019,OTP Fraud,47,13,1.0,24,902028.47,58
+Arunachal Pradesh,2021,Online Banking Fraud,3,2,0.0,3,224963.41,5
+Bihar,2019,Identity Theft,11,6,0.0,10,665404.0,15
+Arunachal Pradesh,2022,Online Banking Fraud,3,2,0.0,2,219092.75,5
+Maharashtra,2021,Identity Theft,77,54,4.0,52,4543048.39,94
+Delhi,2022,OTP Fraud,178,86,7.0,73,2621879.28,249
+Madhya Pradesh,2020,Identity Theft,22,12,1.0,21,1113102.4,30
+Chhattisgarh,2021,OTP Fraud,21,8,1.0,15,335868.32,37
+Delhi,2022,UPI Fraud,272,85,9.0,131,2141921.81,326
+West Bengal,2022,Other,45,19,3.0,21,662861.05,66
+Haryana,2022,UPI Fraud,199,108,6.0,171,1738882.98,236
+Uttar Pradesh,2024,OTP Fraud,433,206,7.0,330,7057450.96,542
+Uttarakhand,2023,Identity Theft,24,15,2.0,28,1371605.26,30
+Uttar Pradesh,2019,UPI Fraud,48,21,1.0,35,352730.47,59
+Telangana,2021,Online Banking Fraud,113,54,6.0,61,4299958.0,158
+Uttar Pradesh,2021,UPI Fraud,190,63,2.0,65,1796369.42,233
+Pondicherry,2021,UPI Fraud,7,3,0.0,5,60348.16,9
+Assam,2020,Identity Theft,8,5,1.0,5,623976.09,10
+Mizoram,2023,Online Banking Fraud,4,2,0.0,3,141555.23,5
+Nagaland,2022,Online Banking Fraud,5,3,0.0,6,270272.74,6
+Punjab,2022,UPI Fraud,123,26,4.0,32,782423.91,202
+Sikkim,2024,Card Fraud,4,2,0.0,2,111460.06,7
+Tripura,2024,Identity Theft,6,3,0.0,4,489127.99,7
+Puducherry,2022,Online Banking Fraud,9,6,0.0,7,356333.8,15
+Pondicherry,2019,Other,2,1,0.0,2,28560.95,3
+Uttar Pradesh,2021,Card Fraud,104,88,3.0,124,1743781.42,138
+NCT of Delhi,2019,Identity Theft,28,14,2.0,21,2342583.73,39
+Chhattisgarh,2024,UPI Fraud,136,55,4.0,98,1400315.59,238
+Bihar,2022,Identity Theft,28,15,1.0,24,1679956.27,39
+Maharashtra,2022,Card Fraud,161,113,9.0,140,3385686.61,222
+Gujarat,2024,Identity Theft,76,31,5.0,49,7143815.75,92
+Uttar Pradesh,2019,Card Fraud,77,45,2.0,60,1568457.51,107
+Sikkim,2024,Identity Theft,3,2,0.0,2,247672.75,4
+Maharashtra,2020,UPI Fraud,88,38,3.0,46,811287.53,121
+Karnataka,2021,UPI Fraud,123,56,4.0,65,1371219.48,147
+Manipur,2021,Other,1,1,0.0,1,24273.84,1
+Tamil Nadu,2020,Card Fraud,68,41,4.0,58,1151011.75,85
+Karnataka,2024,UPI Fraud,888,370,29.0,563,10116487.69,1209
+Mizoram,2024,Card Fraud,4,2,0.0,2,59218.34,5
+Haryana,2019,Online Banking Fraud,55,32,3.0,49,3443305.22,81
+Goa,2020,Card Fraud,5,3,0.0,5,72753.16,8
+Madhya Pradesh,2019,Identity Theft,12,7,1.0,10,982967.79,18
+Uttar Pradesh,2020,Identity Theft,65,33,2.0,47,3977072.58,102
+Telangana,2022,UPI Fraud,355,143,10.0,225,2520899.93,559
+Nagaland,2020,Identity Theft,0,0,0.0,0,0.0,0
+Manipur,2019,Identity Theft,1,1,0.0,1,94700.27,2
+Arunachal Pradesh,2021,Other,1,1,0.0,1,17570.62,2
+West Bengal,2022,Identity Theft,66,32,6.0,55,6357624.55,96
+Kerala,2024,Online Banking Fraud,77,39,4.0,59,5434851.07,98
+Odisha,2019,Identity Theft,7,4,1.0,4,516982.85,11
+Rajasthan,2020,Other,26,15,1.0,27,388555.7,34
+Mizoram,2023,Identity Theft,3,2,0.0,4,279313.87,4
+Andhra Pradesh,2019,Other,10,5,0.0,6,133440.05,13
+Sikkim,2019,UPI Fraud,1,0,0.0,0,12576.08,2
+Bihar,2022,Card Fraud,41,26,1.0,48,767700.61,59
+Bihar,2020,UPI Fraud,31,14,0.0,17,327378.99,45
+Gujarat,2022,Identity Theft,56,32,4.0,27,3906370.86,75
+Kerala,2023,UPI Fraud,302,146,9.0,194,3463056.51,388
+Bihar,2021,Online Banking Fraud,32,18,0.0,24,1093282.57,38
+Tamil Nadu,2023,Card Fraud,135,81,8.0,91,2073472.16,232
+Uttarakhand,2019,Other,3,1,0.0,2,52810.65,4
+Telangana,2023,UPI Fraud,519,198,16.0,374,3046297.92,626
+Himachal Pradesh,2019,Identity Theft,3,2,0.0,3,227135.49,4
+Tripura,2019,Other,1,0,0.0,0,25017.3,2
+Gujarat,2019,UPI Fraud,27,15,1.0,20,319405.23,46
+Andhra Pradesh,2023,UPI Fraud,208,86,7.0,116,1932760.41,291
+Mizoram,2022,UPI Fraud,9,4,0.0,4,53548.24,15
+Uttarakhand,2023,Other,18,7,1.0,13,301636.66,25
+Madhya Pradesh,2021,Identity Theft,34,20,3.0,33,1985100.1,43
+Uttarakhand,2022,OTP Fraud,53,29,2.0,40,993225.49,74
+Bihar,2019,Online Banking Fraud,35,15,1.0,23,1233283.53,41
+Maharashtra,2023,Online Banking Fraud,190,115,9.0,107,13098615.76,300
+Pondicherry,2021,Other,2,1,0.0,2,33560.1,3
+Sikkim,2020,OTP Fraud,3,1,0.0,1,34859.09,5
+Meghalaya,2019,Identity Theft,1,1,0.0,2,65086.48,1
+Telangana,2024,UPI Fraud,846,370,26.0,349,5847151.89,1115
+Manipur,2020,OTP Fraud,6,2,0.0,2,53055.99,8
+Kerala,2020,OTP Fraud,71,30,2.0,54,797830.2,93
+Tamil Nadu,2020,OTP Fraud,132,52,5.0,76,2315028.36,231
+Delhi,2023,OTP Fraud,264,127,10.0,225,3620253.09,405
+Punjab,2019,Identity Theft,12,8,1.0,8,1039296.2,19
+Sikkim,2024,Other,3,1,0.0,1,48858.53,4
+Himachal Pradesh,2022,OTP Fraud,20,8,1.0,8,190613.07,26
+Uttar Pradesh,2023,OTP Fraud,412,157,6.0,213,7562022.27,523
+NCT of Delhi,2020,UPI Fraud,77,30,2.0,42,497154.45,118
+Madhya Pradesh,2019,OTP Fraud,62,32,2.0,53,750449.24,76
+Chhattisgarh,2019,Card Fraud,10,5,1.0,4,160501.72,13
+Odisha,2022,Identity Theft,25,16,2.0,26,1393372.18,43
+Assam,2021,Other,9,4,0.0,5,183001.63,12
+Chhattisgarh,2023,Online Banking Fraud,29,17,1.0,18,2032376.15,39
+Karnataka,2021,Identity Theft,62,38,5.0,35,5562022.6,77
+Chhattisgarh,2021,Card Fraud,13,7,1.0,9,298051.25,19
+Manipur,2019,UPI Fraud,2,1,0.0,1,12739.57,2
+Meghalaya,2021,Other,2,1,0.0,1,23373.94,3
+Sikkim,2022,OTP Fraud,6,3,0.0,5,99532.57,8
+Telangana,2023,Other,120,58,6.0,84,1470775.47,169
+Punjab,2023,Online Banking Fraud,67,39,4.0,53,4677536.23,111
+Gujarat,2021,UPI Fraud,93,34,3.0,63,569669.91,128
+Kerala,2022,Identity Theft,47,30,3.0,28,2688293.57,72
+Tripura,2021,UPI Fraud,6,2,0.0,3,72086.31,10
+Tamil Nadu,2021,Card Fraud,69,46,4.0,83,1977032.13,87
+Manipur,2020,Online Banking Fraud,5,2,0.0,3,290745.35,9
+Bihar,2022,Online Banking Fraud,54,19,1.0,31,3566568.84,89
+Uttar Pradesh,2023,Online Banking Fraud,255,163,7.0,159,19413344.7,413
+Manipur,2021,Online Banking Fraud,4,2,0.0,2,219206.48,6
+Delhi,2021,OTP Fraud,151,53,6.0,53,2854247.43,236
+Nagaland,2019,Other,0,0,0.0,0,0.0,0
+Chhattisgarh,2019,UPI Fraud,6,2,0.0,2,50485.94,8
+Uttar Pradesh,2022,OTP Fraud,295,148,,280,5769659.77,350
+Puducherry,2022,Card Fraud,8,4,1.0,3,144057.16,12
+Maharashtra,2019,Online Banking Fraud,104,55,5.0,66,5223535.31,180
+Telangana,2020,Card Fraud,73,35,5.0,59,1456118.82,93
+Odisha,2024,Card Fraud,42,24,4.0,24,1092562.91,55
+Rajasthan,2020,Card Fraud,51,25,3.0,24,876684.71,71
+Punjab,2024,Online Banking Fraud,65,29,4.0,28,4499615.58,84
+Rajasthan,2021,UPI Fraud,98,49,3.0,74,619645.27,118
+Jharkhand,2022,Other,13,6,0.0,10,278394.81,15
+Mizoram,2022,Card Fraud,3,1,0.0,1,41175.14,5
+Puducherry,2024,OTP Fraud,17,8,1.0,12,294726.66,22
+West Bengal,2022,UPI Fraud,194,53,7.0,49,1215047.17,228
+Kerala,2022,Other,38,20,2.0,22,954756.43,46
+Tamil Nadu,2023,OTP Fraud,284,136,11.0,246,3683126.55,426
+Gujarat,2021,Card Fraud,61,37,3.0,32,1126756.61,98
+Karnataka,2021,OTP Fraud,175,68,6.0,74,1803083.56,209
+Tamil Nadu,2024,Online Banking Fraud,149,93,7.0,152,7178504.21,249
+Jharkhand,2023,OTP Fraud,45,15,1.0,15,532829.37,69
+Odisha,2021,UPI Fraud,45,24,2.0,35,278883.1,78
+Pondicherry,2021,OTP Fraud,9,4,0.0,6,140906.05,14
+Andhra Pradesh,2019,Online Banking Fraud,32,21,2.0,28,1140945.79,40
+Madhya Pradesh,2024,Card Fraud,102,70,5.0,100,2946956.83,137
+Himachal Pradesh,2021,Identity Theft,6,4,0.0,3,528234.76,10
+Madhya Pradesh,2023,Identity Theft,66,39,4.0,55,5467679.24,101
+Manipur,2019,Card Fraud,3,2,0.0,3,87814.52,5
+Mizoram,2021,OTP Fraud,6,2,0.0,2,72616.36,9
+Arunachal Pradesh,2019,Online Banking Fraud,3,2,0.0,3,159842.94,5
+Odisha,2024,Identity Theft,35,20,3.0,23,1765802.72,46
+Nagaland,2024,Online Banking Fraud,5,2,0.0,3,218131.86,8
+Gujarat,2022,Other,40,19,2.0,17,790762.16,50
+Bihar,2022,Other,25,14,0.0,22,599915.97,36
+Madhya Pradesh,2019,UPI Fraud,18,9,1.0,15,162541.55,23
+Gujarat,2021,OTP Fraud,132,58,4.0,88,1776000.32,178
+Delhi,2023,Other,72,32,3.0,36,1726526.82,112
+Delhi,2024,UPI Fraud,824,386,23.0,629,6645031.22,1017
+Punjab,2019,OTP Fraud,46,28,2.0,31,469135.1,59
+Jharkhand,2019,Other,5,2,0.0,2,115184.82,7
+Nagaland,2021,OTP Fraud,7,4,0.0,6,70280.6,9
+Gujarat,2022,OTP Fraud,195,88,8.0,79,3213254.0,316
+Delhi,2024,OTP Fraud,253,107,9.0,165,2970672.54,389
+Gujarat,2021,Online Banking Fraud,85,40,4.0,53,4071721.67,137
+Tamil Nadu,2022,UPI Fraud,273,135,9.0,173,2862393.43,475
+Punjab,2024,Card Fraud,57,26,3.0,41,1736520.08,84
+Madhya Pradesh,2024,Other,91,34,5.0,60,1508951.92,124
+Telangana,2023,Online Banking Fraud,219,109,12.0,159,7761662.97,365
+Andhra Pradesh,2022,Other,26,16,1.0,20,584400.49,40
+Jharkhand,2020,Online Banking Fraud,18,10,0.0,18,1134061.56,21
+NCT of Delhi,2020,Other,26,11,1.0,10,372440.03,40
+Odisha,2019,UPI Fraud,9,4,0.0,7,105161.26,15
+Maharashtra,2023,UPI Fraud,773,252,25.0,303,6859810.44,934
+Manipur,2020,Identity Theft,2,1,0.0,1,109233.3,3
+Meghalaya,2023,Identity Theft,4,2,0.0,3,196737.28,7
+Punjab,2020,OTP Fraud,59,18,2.0,29,1074637.39,100
+Arunachal Pradesh,2019,Other,1,0,0.0,0,19647.16,2
+Haryana,2019,Card Fraud,31,19,2.0,33,525453.68,56
+Madhya Pradesh,2021,Other,21,12,1.0,21,381252.76,36
+Pondicherry,2019,UPI Fraud,3,2,0.0,4,17484.91,5
+Nagaland,2020,Other,0,0,0.0,0,0.0,0
+Andhra Pradesh,2023,OTP Fraud,93,48,4.0,40,1428276.48,126
+Goa,2024,Online Banking Fraud,10,6,1.0,7,397986.47,15
+Tripura,2023,Online Banking Fraud,8,4,0.0,5,492394.12,10
+Kerala,2020,Other,12,5,1.0,8,167953.66,18
+Madhya Pradesh,2021,Online Banking Fraud,63,34,4.0,31,3280312.5,96
+Uttar Pradesh,2022,Card Fraud,190,146,5.0,130,2726287.07,332
+Himachal Pradesh,2024,OTP Fraud,21,9,1.0,16,325852.96,28
+Tripura,2020,UPI Fraud,4,2,0.0,3,47390.53,6
+Karnataka,2023,UPI Fraud,510,213,16.0,386,4616893.65,748
+Karnataka,2019,Card Fraud,56,35,3.0,51,1664486.56,86
+Tripura,2023,UPI Fraud,23,9,1.0,10,,31
+Rajasthan,2019,Online Banking Fraud,71,45,4.0,55,4750895.52,100
+Manipur,2022,Other,3,2,0.0,3,54285.6,5
+Andhra Pradesh,2020,Card Fraud,20,12,1.0,22,324870.41,31
+Odisha,2024,UPI Fraud,227,98,11.0,176,1714033.73,359
+Andhra Pradesh,2021,Online Banking Fraud,39,19,2.0,36,2520271.48,69
+Karnataka,2019,Other,25,11,1.0,11,576187.52,37
+Odisha,2019,Online Banking Fraud,26,14,2.0,18,1587799.64,32
+Nagaland,2023,Card Fraud,6,3,0.0,4,160072.78,8
+Kerala,2022,OTP Fraud,86,44,4.0,54,1513722.0,126
+Nagaland,2021,Online Banking Fraud,4,2,0.0,3,187387.18,6
+Rajasthan,2020,UPI Fraud,45,25,1.0,34,272387.37,66
+Maharashtra,2020,Card Fraud,78,54,6.0,99,1723074.58,126
+Nagaland,2020,OTP Fraud,1,1,0.0,1,12036.01,1
+West Bengal,2021,Identity Theft,42,27,4.0,46,2485532.64,54
+Nagaland,2024,Identity Theft,5,3,0.0,4,422515.86,6
+Uttarakhand,2022,UPI Fraud,55,22,2.0,30,311265.86,79
+Mizoram,2019,Card Fraud,2,1,,2,29702.04,3
+Maharashtra,2024,OTP Fraud,324,156,12.0,213,2992646.39,430
+Telangana,2021,Other,46,26,2.0,33,695130.17,82
+Haryana,2024,OTP Fraud,176,35,7.0,66,3180728.46,316
+Chhattisgarh,2022,Identity Theft,15,7,1.0,9,1052653.43,26
+Gujarat,2019,Identity Theft,25,18,2.0,27,1332148.97,31
+Nagaland,2019,Card Fraud,1,0,0.0,0,30521.66,2
+Tripura,2021,Card Fraud,4,2,0.0,2,112935.86,6
+Jharkhand,2024,Card Fraud,27,18,1.0,15,553890.36,34
+Mizoram,2019,OTP Fraud,4,1,0.0,1,46414.92,5
+Karnataka,2022,Online Banking Fraud,133,82,8.0,118,4426011.84,162
+Uttarakhand,2024,Online Banking Fraud,41,23,2.0,32,2884714.43,66
+Odisha,2019,Card Fraud,15,11,1.0,11,320450.62,24
+Delhi,2022,Card Fraud,96,57,6.0,104,2598368.17,119
+Haryana,2021,UPI Fraud,90,38,3.0,58,946080.61,118
+Sikkim,2020,Online Banking Fraud,3,1,0.0,1,195890.19,4
+Assam,2019,OTP Fraud,27,15,1.0,19,262603.88,34
+Uttarakhand,2020,Other,6,2,0.0,2,99472.87,8
+Odisha,2020,UPI Fraud,18,6,1.0,8,113262.37,29
+Punjab,2019,Card Fraud,21,14,1.0,18,454392.55,26
+Goa,2024,OTP Fraud,20,10,1.0,19,191474.68,28
+Gujarat,2024,UPI Fraud,551,275,18.0,397,4643877.41,994
+Haryana,2023,Online Banking Fraud,99,53,5.0,64,7600449.74,138
+Telangana,2023,Identity Theft,139,75,11.0,128,10855607.97,243
+Tripura,2020,Online Banking Fraud,5,3,0.0,5,384486.83,8
+Madhya Pradesh,2024,OTP Fraud,207,106,8.0,155,1809898.32,278
+Tripura,2021,Online Banking Fraud,6,3,0.0,5,301675.46,11
+Tripura,2023,OTP Fraud,15,7,0.0,11,159090.36,24
+Tamil Nadu,2020,Identity Theft,38,25,2.0,40,3295739.63,51
+Madhya Pradesh,2020,Other,17,10,1.0,16,341047.41,23
+Arunachal Pradesh,2022,Identity Theft,3,2,0.0,4,165555.94,4
+Bihar,2020,Identity Theft,16,9,0.0,11,1456661.68,19
+Arunachal Pradesh,2019,Identity Theft,1,0,0.0,0,71598.34,1
+Tamil Nadu,2019,Identity Theft,30,18,2.0,19,1647653.79,54
+Nagaland,2023,Other,3,2,0.0,2,50575.7,5
+Gujarat,2024,OTP Fraud,175,82,6.0,74,3183023.51,249
+Himachal Pradesh,2019,OTP Fraud,13,4,0.0,4,159306.94,22
+Tripura,2020,Other,2,1,0.0,2,27475.58,3
+Uttarakhand,2024,Identity Theft,34,18,2.0,24,2090965.6,46
+Pondicherry,2019,Identity Theft,1,1,0.0,1,52129.53,2
+Himachal Pradesh,2021,Card Fraud,8,5,0.0,7,204157.33,10
+Tripura,2022,Card Fraud,5,3,0.0,4,143002.05,8
+Haryana,2021,OTP Fraud,94,36,3.0,56,1783387.53,139
+Mizoram,2022,Other,2,1,0.0,1,28416.27,2
+Himachal Pradesh,2020,Identity Theft,4,2,0.0,4,168606.43,6
+Uttarakhand,2019,UPI Fraud,5,1,0.0,1,36745.08,7
+Assam,2024,Card Fraud,32,19,2.0,28,895368.39,54
+Uttar Pradesh,2024,UPI Fraud,1285,686,20.0,821,9610432.06,2104
+Himachal Pradesh,2024,UPI Fraud,71,29,2.0,47,427316.63,97
+Jharkhand,2021,OTP Fraud,33,17,0.0,15,500488.0,39
+Mizoram,2021,Other,1,0,0.0,0,11247.61,1
+Puducherry,2022,Other,4,2,0.0,3,52839.78,6
+Rajasthan,2019,OTP Fraud,82,41,3.0,35,1557165.47,123
+Meghalaya,2019,Other,1,1,0.0,1,22978.07,1
+NCT of Delhi,2020,Online Banking Fraud,82,40,4.0,33,2909090.04,102
+Andhra Pradesh,2024,OTP Fraud,93,45,4.0,60,1413852.69,154
+Odisha,2023,OTP Fraud,58,25,3.0,44,865375.73,86
+Telangana,2023,Card Fraud,183,107,11.0,94,2651300.37,267
+Chhattisgarh,2024,Online Banking Fraud,22,11,1.0,14,819002.66,35
+Tamil Nadu,2019,Other,24,8,1.0,11,266511.52,37
+Rajasthan,2022,Card Fraud,82,55,5.0,101,1179989.2,118
+Telangana,2022,Identity Theft,92,37,6.0,56,6584152.23,141
+Jharkhand,2020,Card Fraud,12,8,0.0,12,316109.74,17
+Meghalaya,2022,Online Banking Fraud,5,2,0.0,3,258041.55,6
+Meghalaya,2022,Identity Theft,3,2,0.0,3,176978.41,4
+Karnataka,2022,Other,55,22,3.0,41,1278397.83,86
+Arunachal Pradesh,2022,UPI Fraud,9,3,0.0,3,72710.68,16
+Haryana,2023,Identity Theft,70,32,4.0,41,4553645.72,109
+Jharkhand,2019,UPI Fraud,6,2,0.0,3,33548.16,11
+West Bengal,2019,Identity Theft,19,10,,14,948053.05,23
+Pondicherry,2020,Identity Theft,3,2,0.0,3,141642.37,4
+Odisha,2020,Online Banking Fraud,30,15,3.0,21,1777307.53,38
+Telangana,2023,OTP Fraud,268,92,10.0,86,4299759.84,436
+Andhra Pradesh,2024,Other,36,15,2.0,28,849400.35,57
+Kerala,2020,UPI Fraud,42,13,1.0,14,485495.75,63
+Meghalaya,2019,Card Fraud,2,1,0.0,1,33036.26,3
+Haryana,2024,Other,71,28,3.0,44,996807.54,92
+Chhattisgarh,2022,Other,11,4,1.0,5,254481.51,14
+Gujarat,2022,Online Banking Fraud,112,60,6.0,78,8436806.78,147
+Uttar Pradesh,2020,UPI Fraud,112,54,1.0,44,805024.48,163
+Maharashtra,2020,Identity Theft,41,31,3.0,42,3760300.81,55
+Nagaland,2023,Identity Theft,3,2,0.0,4,130355.61,5
+Telangana,2024,Identity Theft,155,76,9.0,63,10514220.73,251
+Jharkhand,2023,Card Fraud,28,15,1.0,18,468023.74,48
+Karnataka,2023,Online Banking Fraud,181,105,9.0,101,13315181.4,257
+Haryana,2023,OTP Fraud,168,69,6.0,130,2411279.3,213
+West Bengal,2021,Other,26,13,1.0,23,442301.04,33
+Punjab,2021,UPI Fraud,57,18,2.0,31,434836.66,80
+Odisha,2019,OTP Fraud,35,17,2.0,24,679000.56,48
+Nagaland,2021,Card Fraud,3,2,0.0,4,88118.43,4
+West Bengal,2019,Other,20,11,1.0,10,447192.65,24
+Kerala,2023,Identity Theft,49,33,3.0,28,3928905.1,80
+Goa,2019,Other,2,1,0.0,2,42743.41,3
+Assam,2019,UPI Fraud,7,2,0.0,2,74830.15,10
+Maharashtra,2021,Other,45,28,2.0,24,874977.09,78
+Chhattisgarh,2019,OTP Fraud,21,10,1.0,16,214829.73,28
+Madhya Pradesh,2020,UPI Fraud,37,14,1.0,14,280093.13,66
+Sikkim,2024,OTP Fraud,6,2,0.0,2,95251.23,9
+Delhi,2021,Other,37,22,2.0,42,801523.58,46
+Himachal Pradesh,2023,Online Banking Fraud,15,8,1.0,14,677690.17,20
+Tamil Nadu,2023,Online Banking Fraud,150,105,9.0,116,8270969.32,235
+Uttar Pradesh,2021,Identity Theft,84,48,2.0,47,6844912.45,107
+Bihar,2020,Card Fraud,25,15,1.0,19,479475.5,40
+Madhya Pradesh,2023,Card Fraud,120,75,7.0,126,3171646.0,148
+Arunachal Pradesh,2023,UPI Fraud,16,9,0.0,12,117355.99,21
+Odisha,2020,OTP Fraud,41,18,2.0,21,589569.47,52
+Nagaland,2019,UPI Fraud,0,0,0.0,0,0.0,0
+Puducherry,2023,Other,6,3,0.0,5,89587.63,8
+Jharkhand,2021,Online Banking Fraud,17,8,0.0,7,793794.89,31
+Karnataka,2024,Other,140,75,7.0,71,2340884.73,205
+Tamil Nadu,2021,UPI Fraud,123,52,4.0,86,795221.79,149
+Uttarakhand,2020,OTP Fraud,23,10,1.0,18,355217.01,31
+West Bengal,2019,OTP Fraud,82,34,4.0,37,1448123.83,99
+Haryana,2022,Identity Theft,41,25,2.0,28,2947191.37,58
+Odisha,2024,Other,30,14,2.0,26,436754.64,40
+Andhra Pradesh,2021,UPI Fraud,49,25,2.0,36,350984.75,63
+Uttarakhand,2021,Card Fraud,12,5,1.0,9,277579.36,18
+Assam,2024,Other,19,11,1.0,19,208550.41,28
+Mizoram,2022,Identity Theft,3,2,0.0,2,239887.8,4
+Haryana,2024,Online Banking Fraud,100,65,5.0,60,5804363.08,168
+Karnataka,2024,Online Banking Fraud,164,93,9.0,79,9275774.88,193
+Himachal Pradesh,2023,Card Fraud,16,8,1.0,9,237264.6,22
+Andhra Pradesh,2020,UPI Fraud,22,7,1.0,10,152670.8,27
+Andhra Pradesh,2024,Online Banking Fraud,50,31,3.0,30,1906942.02,60
+Manipur,2024,Online Banking Fraud,7,3,0.0,4,341181.36,12
+Tripura,2021,Identity Theft,2,1,0.0,1,107541.57,3
+Jharkhand,2024,Other,21,8,0.0,12,503448.33,32
+Jharkhand,2024,OTP Fraud,34,16,1.0,30,509706.05,48
+Haryana,2022,OTP Fraud,146,83,5.0,116,1429197.2,219
+Kerala,2019,Other,11,4,1.0,5,175771.14,18
+Himachal Pradesh,2022,Identity Theft,9,6,1.0,7,516538.05,11
+Puducherry,2024,Card Fraud,9,6,0.0,8,189233.35,15
+Punjab,2019,Other,12,6,1.0,10,269657.81,16
+Odisha,2022,Other,17,9,1.0,8,252449.01,23
+Puducherry,2023,Online Banking Fraud,10,6,0.0,8,462778.49,12
+Telangana,2019,Other,25,13,1.0,16,539702.7,38
+Madhya Pradesh,2024,Online Banking Fraud,116,83,6.0,131,3879742.15,157
+Uttarakhand,2023,Online Banking Fraud,36,22,2.0,40,1712586.34,45
+Karnataka,2024,Identity Theft,141,92,9.0,77,11663564.53,230
+Goa,2019,Card Fraud,4,2,0.0,3,118871.21,5
+Assam,2020,OTP Fraud,36,16,1.0,30,512862.38,44
+Gujarat,2023,Online Banking Fraud,123,88,7.0,104,7941085.61,204
+Bihar,2019,Card Fraud,22,13,0.0,24,449865.78,33
+Maharashtra,2021,Online Banking Fraud,113,67,6.0,80,5330384.77,138
+Arunachal Pradesh,2021,OTP Fraud,6,2,0.0,3,82891.98,9
+Bihar,2024,Identity Theft,50,34,1.0,34,4470310.87,69
+Assam,2022,OTP Fraud,40,23,1.0,23,512000.31,54
+Himachal Pradesh,2023,Other,9,6,0.0,5,213487.96,11
+Punjab,2022,Identity Theft,32,17,2.0,22,1578116.3,48
+Arunachal Pradesh,2019,Card Fraud,2,1,0.0,2,38257.35,3
+Tripura,2019,OTP Fraud,6,3,0.0,6,114825.15,11
+Maharashtra,2019,Other,27,15,1.0,17,504383.57,38
+Bihar,2021,OTP Fraud,58,19,1.0,33,606591.33,105
+Tripura,2024,Other,5,2,0.0,2,73732.87,6
+Mizoram,2020,UPI Fraud,2,1,0.0,1,17254.31,3
+Sikkim,2022,Card Fraud,3,2,0.0,2,70004.02,4
+Telangana,2024,Online Banking Fraud,167,105,11.0,173,7616034.33,227
+Assam,2024,OTP Fraud,53,16,2.0,14,599873.95,89
+Rajasthan,2019,UPI Fraud,26,12,1.0,15,285409.59,46
+Uttarakhand,2024,UPI Fraud,148,54,4.0,101,1830075.63,264
+Gujarat,2019,OTP Fraud,93,55,3.0,88,1186483.13,151
+Telangana,2021,Card Fraud,101,69,6.0,57,2649415.66,122
+Goa,2022,Card Fraud,8,4,1.0,7,127707.19,10
+Bihar,2020,Online Banking Fraud,34,21,1.0,18,2007830.71,44
+Karnataka,2020,Identity Theft,40,20,3.0,33,2967706.65,49
+Punjab,2023,Identity Theft,44,27,3.0,46,2507486.48,56
+Maharashtra,2022,OTP Fraud,269,128,11.0,148,2975785.87,485
+Tripura,2022,Online Banking Fraud,6,3,0.0,3,206046.96,9
+Uttar Pradesh,2023,Card Fraud,241,139,7.0,226,5483855.58,384
+Punjab,2023,Card Fraud,54,26,3.0,33,897177.64,72
+West Bengal,2024,Card Fraud,109,67,9.0,101,2613018.6,146
+Pondicherry,2020,Online Banking Fraud,6,3,0.0,5,450640.5,8
+Kerala,2022,Online Banking Fraud,61,34,3.0,46,2229791.4,80
+Mizoram,2020,Card Fraud,2,1,0.0,2,43747.89,3
+Manipur,2021,OTP Fraud,7,3,0.0,5,131573.91,10
+Uttar Pradesh,2019,Other,33,18,1.0,34,824494.19,40
+Sikkim,2023,Other,2,1,0.0,2,44177.81,3
+Sikkim,2023,OTP Fraud,6,3,0.0,5,101672.95,10
+Kerala,2022,Card Fraud,46,30,3.0,28,1067495.53,74
+Himachal Pradesh,2024,Card Fraud,13,9,1.0,16,178996.84,17
+Kerala,2022,UPI Fraud,155,73,4.0,127,1873685.9,247
+Maharashtra,2024,UPI Fraud,896,319,31.0,302,9655671.52,1326
+Rajasthan,2021,Identity Theft,37,21,2.0,27,2221846.46,56
+Himachal Pradesh,2022,Other,7,4,0.0,5,128510.97,9
+Mizoram,2019,Identity Theft,1,0,0.0,0,56024.25,2
+Nagaland,2019,Identity Theft,0,0,0.0,0,0.0,0
+Andhra Pradesh,2023,Card Fraud,44,30,2.0,54,960564.53,53
+Odisha,2020,Other,7,3,1.0,5,170306.12,9
+Delhi,2023,Identity Theft,97,54,7.0,82,7777479.71,155
+Andhra Pradesh,2024,Card Fraud,52,38,3.0,48,719998.99,73
+Arunachal Pradesh,2022,Card Fraud,3,2,0.0,2,55534.27,5
+Himachal Pradesh,2023,OTP Fraud,30,12,1.0,14,458717.3,49
+Chhattisgarh,2020,Other,4,2,0.0,3,69565.55,7
+Bihar,2021,Card Fraud,22,14,0.0,16,608539.29,29
+Meghalaya,2020,Identity Theft,2,1,0.0,2,173321.93,2
+Gujarat,2020,UPI Fraud,56,29,2.0,38,642158.34,87
+Karnataka,2019,Identity Theft,34,19,2.0,31,3114382.65,55
+Bihar,2024,Online Banking Fraud,64,41,1.0,73,2486319.76,79
+Rajasthan,2022,Online Banking Fraud,83,51,4.0,91,5389439.86,141
+Tripura,2019,Identity Theft,1,0,0.0,0,85077.58,1
+Maharashtra,2023,OTP Fraud,299,164,10.0,164,5453128.58,392
+Kerala,2024,Other,53,23,3.0,32,1225173.86,85
+Jharkhand,2020,UPI Fraud,13,4,0.0,5,85443.37,18
+Haryana,2022,Online Banking Fraud,90,44,4.0,80,6165064.41,155
+Haryana,2020,Card Fraud,40,22,2.0,31,787137.66,54
+Tripura,2020,Card Fraud,2,1,0.0,2,49370.37,3
+Chhattisgarh,2024,OTP Fraud,44,17,2.0,28,427062.47,55
+Kerala,2021,OTP Fraud,79,33,3.0,28,1301867.18,102
+Telangana,2019,Identity Theft,35,21,2.0,39,1569726.24,45
+Karnataka,2020,UPI Fraud,83,37,3.0,31,807580.36,107
+Pondicherry,2020,UPI Fraud,4,2,0.0,3,36916.53,6
+Chhattisgarh,2021,Online Banking Fraud,16,9,1.0,15,953432.34,20
+Meghalaya,2023,Card Fraud,5,3,0.0,3,78882.3,7
+Gujarat,2020,Online Banking Fraud,69,23,3.0,29,4692215.5,99
+Meghalaya,2021,OTP Fraud,6,3,0.0,3,56807.75,9
+Assam,2023,Other,22,11,1.0,13,340350.91,29
+Karnataka,2023,Other,100,53,5.0,49,2492801.19,166
+Rajasthan,2024,Identity Theft,93,49,5.0,50,6507788.57,132
+West Bengal,2023,Other,68,27,4.0,30,1328459.6,103
+Chhattisgarh,2024,Card Fraud,26,15,1.0,28,574709.0,37
+Haryana,2019,Identity Theft,17,11,1.0,10,1656311.56,30
+West Bengal,2022,Card Fraud,69,38,5.0,33,1811213.0,86
+Punjab,2021,OTP Fraud,70,34,3.0,30,1236374.28,94
+Manipur,2023,Other,4,2,0.0,2,80158.79,5
+Kerala,2023,Other,49,28,2.0,24,776322.43,81
+Odisha,2023,UPI Fraud,162,45,8.0,69,1695983.24,241
+Madhya Pradesh,2024,Identity Theft,96,58,6.0,79,6889340.41,126
+Haryana,2020,OTP Fraud,85,27,3.0,31,1052116.97,124
+Madhya Pradesh,2022,Card Fraud,72,37,4.0,61,2061956.62,102
+Maharashtra,2019,UPI Fraud,38,15,1.0,26,253451.11,56
+Chhattisgarh,2023,Identity Theft,13,6,1.0,6,640031.53,16
+Jharkhand,2024,UPI Fraud,146,77,2.0,139,1188647.53,191
+Himachal Pradesh,2019,Online Banking Fraud,9,4,0.0,4,412366.46,13
+Manipur,2022,Online Banking Fraud,6,3,0.0,6,432347.83,9
+Nagaland,2024,OTP Fraud,9,6,0.0,6,115292.15,12
+Sikkim,2023,Identity Theft,2,1,0.0,2,119012.44,3
+Nagaland,2021,UPI Fraud,5,2,0.0,4,40461.19,7
+Uttarakhand,2024,Other,27,12,1.0,17,597348.52,45
+Nagaland,2023,Online Banking Fraud,6,3,0.0,4,337475.0,8
+Arunachal Pradesh,2021,Identity Theft,2,1,0.0,2,103152.39,3
+Mizoram,2020,Online Banking Fraud,3,1,0.0,1,214234.31,4
+Telangana,2024,OTP Fraud,336,107,13.0,179,3952293.68,550
+Goa,2021,Online Banking Fraud,8,4,1.0,4,447311.25,12
+Assam,2021,Identity Theft,9,5,1.0,8,562213.66,15
+Uttarakhand,2023,Card Fraud,25,17,2.0,26,665456.81,34
+Pondicherry,2019,Card Fraud,3,2,0.0,3,78923.9,4
+Maharashtra,2022,Other,80,35,3.0,43,1581794.22,97
+Pondicherry,2020,OTP Fraud,9,3,0.0,3,85033.16,11
+Arunachal Pradesh,2024,Online Banking Fraud,5,2,0.0,3,348735.53,7
+West Bengal,2022,Online Banking Fraud,104,35,6.0,58,5974235.55,142
+Madhya Pradesh,2022,Identity Theft,57,28,3.0,49,4853625.29,103
+Bihar,2021,UPI Fraud,54,24,1.0,36,373281.87,64
+Assam,2023,Card Fraud,31,22,2.0,22,808248.52,37
+Karnataka,2022,Identity Theft,87,51,5.0,43,7670976.51,129
+Maharashtra,2024,Online Banking Fraud,194,86,10.0,84,10649169.23,302
+Tripura,2020,OTP Fraud,8,4,0.0,4,154297.49,10
+Rajasthan,2023,Card Fraud,114,76,8.0,97,2638071.63,193
+Meghalaya,2023,Other,4,2,0.0,3,87478.85,7
+Assam,2022,Identity Theft,22,13,1.0,23,1827480.85,31
+Jharkhand,2020,Identity Theft,7,3,0.0,5,382747.84,10
+Chhattisgarh,2022,Card Fraud,18,10,1.0,10,387003.76,22
+Himachal Pradesh,2021,OTP Fraud,14,6,0.0,6,126646.21,24
+Uttar Pradesh,2024,Identity Theft,221,171,7.0,183,20233716.25,374
+Uttarakhand,2022,Other,15,6,1.0,10,346577.8,22
+Sikkim,2020,Other,1,0,0.0,0,13119.06,1
+Chhattisgarh,2020,Online Banking Fraud,16,8,1.0,11,603530.09,26
+Manipur,2023,UPI Fraud,26,8,0.0,8,223241.16,35
+Mizoram,2022,Online Banking Fraud,5,2,0.0,2,254044.65,6
+Telangana,2022,Card Fraud,120,75,6.0,99,3091673.77,141
+Punjab,2020,Card Fraud,28,21,1.0,35,555524.49,51
+Assam,2021,UPI Fraud,26,11,1.0,20,283060.07,34
+Manipur,2021,UPI Fraud,5,2,0.0,3,55182.17,7
+Andhra Pradesh,2020,OTP Fraud,51,19,2.0,23,540903.29,81
+West Bengal,2024,Other,82,49,4.0,80,1234306.19,129
+Nagaland,2024,UPI Fraud,27,8,1.0,13,316721.51,34
+Pondicherry,2021,Card Fraud,4,2,0.0,3,61891.2,5
+Jharkhand,2020,Other,6,3,0.0,3,100262.14,8
+Meghalaya,2021,Identity Theft,2,1,0.0,1,185734.72,2
+Haryana,2022,Card Fraud,70,49,4.0,40,954735.59,100
+Nagaland,2024,Other,5,3,0.0,3,114896.58,9
+Jharkhand,2023,Online Banking Fraud,33,20,1.0,27,2358782.13,47
+Haryana,2020,Other,21,12,1.0,23,450296.17,30
+Odisha,2022,UPI Fraud,80,32,4.0,56,654551.39,120
+Uttarakhand,2022,Online Banking Fraud,32,21,2.0,18,1297992.06,48
+Rajasthan,2024,Other,80,50,4.0,77,1724233.47,116
+Andhra Pradesh,2024,UPI Fraud,284,106,10.0,188,3170359.78,349
+Odisha,2022,Card Fraud,29,16,3.0,23,457636.45,43
+Delhi,2024,Online Banking Fraud,127,67,7.0,93,8814470.2,195
+Assam,2022,UPI Fraud,55,22,2.0,31,558542.61,81
+Goa,2022,Identity Theft,7,4,1.0,4,321631.89,9
+West Bengal,2022,OTP Fraud,184,72,7.0,129,3186958.47,221
+Odisha,2023,Online Banking Fraud,43,23,3.0,32,2464420.7,76
+Meghalaya,2019,Online Banking Fraud,4,3,0.0,4,201002.56,6
+Telangana,2020,Online Banking Fraud,97,62,5.0,79,6144903.57,120
+Rajasthan,2022,Other,45,18,2.0,27,520364.98,69
+Tamil Nadu,2024,Card Fraud,138,99,8.0,137,2104909.6,217
+Haryana,2019,Other,14,8,1.0,13,272044.44,17
+Andhra Pradesh,2021,Other,15,5,1.0,6,362415.15,25
+NCT of Delhi,2019,OTP Fraud,127,60,4.0,69,1558567.5,191
+Uttar Pradesh,2022,UPI Fraud,379,137,6.0,116,4216070.79,597
+Himachal Pradesh,2019,Other,2,1,0.0,2,32226.87,3
+Manipur,2022,Card Fraud,5,4,0.0,6,79257.44,8
+Goa,2024,Card Fraud,13,8,1.0,9,207155.44,18
+Jharkhand,2024,Online Banking Fraud,29,17,1.0,14,1951326.97,34
+Gujarat,2024,Online Banking Fraud,118,74,7.0,63,5856654.44,141
+Tamil Nadu,2021,Identity Theft,52,34,3.0,47,3035665.96,66
+Bihar,2023,UPI Fraud,213,94,2.0,128,2592721.03,314
+Arunachal Pradesh,2023,Other,3,1,0.0,1,40293.84,4
+NCT of Delhi,2019,Card Fraud,43,24,2.0,41,1083230.14,71
+Tripura,2022,UPI Fraud,14,6,0.0,11,147663.62,25
+Uttar Pradesh,2020,Online Banking Fraud,128,77,3.0,84,9777319.51,209
+Puducherry,2023,UPI Fraud,32,16,1.0,24,178159.21,51
+Tripura,2023,Identity Theft,5,3,0.0,3,436735.37,6
+Tamil Nadu,2022,OTP Fraud,215,58,8.0,57,3280233.89,342
+Uttar Pradesh,2022,Other,107,45,2.0,46,2662568.25,157
+Kerala,2021,Card Fraud,37,21,2.0,23,537857.58,51
+Goa,2023,Other,7,4,0.0,3,135873.41,10
+Bihar,2022,UPI Fraud,135,60,1.0,95,1244495.36,204
+Jharkhand,2023,Identity Theft,20,12,0.0,19,942869.78,25
+Rajasthan,2024,Card Fraud,109,65,7.0,118,2845379.73,138
+Nagaland,2020,UPI Fraud,1,0,0.0,0,11569.39,2
+Telangana,2021,OTP Fraud,178,73,5.0,136,2423220.79,315
+Andhra Pradesh,2023,Online Banking Fraud,46,29,2.0,25,2542443.87,62
+Uttar Pradesh,2023,Other,158,88,3.0,95,2095925.48,225
+West Bengal,2021,OTP Fraud,119,45,5.0,49,1363235.79,199
+Assam,2023,OTP Fraud,52,28,2.0,47,969116.34,63
+West Bengal,2024,Online Banking Fraud,107,68,7.0,106,8066589.98,130
+West Bengal,2020,OTP Fraud,120,47,5.0,43,2351684.61,175
+Tamil Nadu,2019,UPI Fraud,27,14,1.0,12,276488.21,41
+Chhattisgarh,2023,OTP Fraud,36,16,1.0,29,343969.71,65
+Punjab,2022,Card Fraud,52,33,3.0,29,1286728.29,92
+Arunachal Pradesh,2024,Card Fraud,5,3,,5,146940.41,7
+Punjab,2024,OTP Fraud,109,34,4.0,40,1924301.77,143
+Punjab,2022,Online Banking Fraud,47,26,2.0,24,1975044.64,59
+Chhattisgarh,2023,UPI Fraud,79,31,3.0,25,496545.78,132
+Gujarat,2022,UPI Fraud,232,81,8.0,88,2288636.14,336
+Delhi,2023,UPI Fraud,613,235,20.0,189,5281230.56,1111
+Manipur,2024,Other,4,2,0.0,3,53086.32,7
+Tripura,2022,Identity Theft,4,2,0.0,3,389792.62,6
+Rajasthan,2019,Card Fraud,41,25,3.0,32,723789.88,52
+Manipur,2023,Online Banking Fraud,10,23,0.0,3,380798.04,10
+West Bengal,2023,UPI Fraud,452,165,22.0,298,4345632.55,538
+Karnataka,2022,OTP Fraud,213,70,9.0,75,3073591.51,352
+Assam,2021,OTP Fraud,32,12,1.0,19,484128.47,42
+Pondicherry,2021,Identity Theft,3,2,0.0,3,184807.26,4
+Jharkhand,2019,OTP Fraud,24,10,0.0,11,436621.05,43
+Telangana,2019,OTP Fraud,136,68,6.0,119,2040069.23,207
+Arunachal Pradesh,2024,UPI Fraud,23,10,0.0,13,224428.47,30
+Arunachal Pradesh,2023,OTP Fraud,7,3,0.0,4,78069.52,8
+Arunachal Pradesh,2023,Card Fraud,5,3,0.0,3,72108.65,7
+Himachal Pradesh,2020,UPI Fraud,7,3,0.0,4,57212.45,11
+Andhra Pradesh,2019,Identity Theft,9,5,1.0,8,533063.4,15
+Mizoram,2019,UPI Fraud,1,0,0.0,0,6278.18,1
+Kerala,2024,Card Fraud,74,49,5.0,39,2189984.22,98
+Himachal Pradesh,2020,OTP Fraud,12,5,0.0,9,105696.22,17
+Haryana,2021,Identity Theft,37,26,2.0,42,1706731.41,47
+Puducherry,2023,OTP Fraud,16,7,1.0,11,206588.81,26
+Chhattisgarh,2021,UPI Fraud,25,10,1.0,13,237731.51,39
+Chhattisgarh,2020,Card Fraud,10,7,1.0,6,149591.53,13
+Sikkim,2021,OTP Fraud,5,20,0.0,3,39827.43,5
+Andhra Pradesh,2022,Identity Theft,33,20,2.0,19,1597158.04,52
+Maharashtra,2021,OTP Fraud,194,79,7.0,111,3626592.51,239
+Puducherry,2022,OTP Fraud,17,11,1.0,20,198975.64,23
+Chhattisgarh,2021,Identity Theft,7,4,0.0,6,640983.85,9
+Chhattisgarh,2019,Identity Theft,6,3,0.0,3,400163.44,8
+Telangana,2019,Online Banking Fraud,106,49,6.0,63,7838712.45,144
+Goa,2021,Card Fraud,5,3,0.0,3,109856.96,7
+Jharkhand,2022,Card Fraud,17,11,0.0,11,492568.5,30
+Rajasthan,2019,Identity Theft,20,12,1.0,14,1029430.87,33
+Goa,2024,Other,7,3,1.0,3,173272.67,10
+Kerala,2021,Other,18,11,1.0,18,400670.07,26
+Sikkim,2023,Card Fraud,5,3,0.0,3,95892.17,9
+Punjab,2024,Other,41,16,2.0,15,469622.32,52
+Tamil Nadu,2019,Online Banking Fraud,90,48,5.0,90,3905987.32,159
+Telangana,2023,Card Fraud,183,107,11.0,94,2651300.37,267
+Andhra Pradesh,2019,UPI Fraud,13,6,0.0,6,131371.33,19
+Gujarat,2019,Other,20,9,1.0,16,260754.37,27
+Kerala,2019,OTP Fraud,66,32,3.0,52,1184305.83,94
+Punjab,2021,Identity Theft,22,11,1.0,10,978697.47,26
+Uttarakhand,2021,UPI Fraud,23,10,1.0,17,223960.25,35
+West Bengal,2020,UPI Fraud,46,15,2.0,20,291761.14,81
+Bihar,2023,OTP Fraud,102,47,1.0,50,1126015.65,185
+Gujarat,2020,OTP Fraud,117,55,5.0,64,1752836.87,153
+Goa,2024,UPI Fraud,51,22,2.0,23,294920.78,89
+Madhya Pradesh,2023,Online Banking Fraud,96,57,5.0,84,6654780.35,140
+Pondicherry,2019,OTP Fraud,7,4,0.0,6,92435.65,10
+Rajasthan,2023,Other,69,35,3.0,49,1339802.63,95
+West Bengal,2020,Other,24,10,1.0,8,452277.84,38
+Sikkim,2023,UPI Fraud,14,7,0.0,11,115298.54,16
+Arunachal Pradesh,2022,Other,2,1,0.0,2,29834.64,3
+Tamil Nadu,2023,UPI Fraud,492,213,15.0,304,3416097.28,645
+Meghalaya,2020,Card Fraud,2,1,0.0,2,42477.45,3
+Madhya Pradesh,2022,Other,42,25,2.0,33,964301.31,53
+Nagaland,2024,Card Fraud,6,4,0.0,6,146791.67,10
+Madhya Pradesh,2020,Online Banking Fraud,55,37,3.0,58,3866352.85,89
+Gujarat,2023,UPI Fraud,454,168,13.0,150,3352695.17,608
+Madhya Pradesh,2021,Card Fraud,39,20,2.0,16,924058.73,62
+Delhi,2021,Card Fraud,68,39,4.0,53,1018251.06,91
+Uttar Pradesh,2020,Card Fraud,81,37,2.0,45,1141021.35,137
+Delhi,2023,Card Fraud,146,77,8.0,70,3161928.04,214
+Puducherry,2023,Identity Theft,6,4,0.0,3,482265.92,10
+Arunachal Pradesh,2020,Online Banking Fraud,3,2,0.0,2,157905.0,4
+Delhi,2024,Card Fraud,143,84,8.0,92,2716114.63,229
+Goa,2020,UPI Fraud,6,2,0.0,2,41131.34,8
+Madhya Pradesh,2019,Other,11,6,1.0,9,121720.55,16
+Haryana,2023,UPI Fraud,321,149,10.0,164,3941479.38,498
+Madhya Pradesh,2021,OTP Fraud,95,62,4.0,103,1198637.21,148
+Punjab,2022,Other,24,12,1.0,21,564048.58,41
+Meghalaya,2022,UPI Fraud,12,6,0.0,9,88460.5,18
+Maharashtra,2024,Identity Theft,158,93,9.0,121,14053852.53,276
+Delhi,2024,Identity Theft,114,74,6.0,105,8009783.13,136
+Meghalaya,2020,UPI Fraud,3,2,0.0,2,30374.56,5
+Tamil Nadu,2019,OTP Fraud,123,54,4.0,70,1815586.2,179
+Meghalaya,2023,OTP Fraud,10,3,0.0,4,155120.89,14
+Sikkim,2021,Identity Theft,1,1,0.0,2,60033.91,1
+Chhattisgarh,2024,Other,20,12,1.0,20,227731.18,24
+Maharashtra,2019,Card Fraud,65,44,3.0,40,1115603.25,82
+Mizoram,2023,Other,3,1,0.0,1,63132.73,5
+Manipur,2022,UPI Fraud,14,4,0.0,7,86285.05,21
+Nagaland,2023,OTP Fraud,9,5,0.0,7,78173.61,16
+Maharashtra,2020,Online Banking Fraud,120,84,6.0,113,7024714.21,181
+Bihar,2019,UPI Fraud,15,7,0.0,7,99937.42,19
+Odisha,2020,Identity Theft,11,7,1.0,12,899087.98,16
+Uttar Pradesh,2022,Online Banking Fraud,220,96,5.0,161,11039894.7,310
+Mizoram,2021,UPI Fraud,4,1,0.0,2,34515.6,7
+Assam,2019,Other,6,2,0.0,3,148625.42,7
+Uttar Pradesh,2023,Identity Theft,193,133,6.0,136,17976039.16,249
+Himachal Pradesh,2019,UPI Fraud,3,1,0.0,2,17627.31,5
+Assam,2022,Card Fraud,23,14,1.0,19,370648.27,32
+Goa,2023,Card Fraud,13,6,1.0,7,174404.36,18
+Puducherry,2022,UPI Fraud,19,8,0.0,7,222402.06,30
+Gujarat,2024,Other,84,59,4.0,62,1092417.72,111
+Nagaland,2022,Identity Theft,4,2,0.0,3,210703.98,5
+Mizoram,2024,OTP Fraud,10,3,0.0,4,100545.6,13
+Haryana,2020,UPI Fraud,52,24,2.0,45,377708.06,74
+Odisha,2024,Online Banking Fraud,39,21,3.0,27,1500543.38,70
+Haryana,2022,Other,42,24,2.0,25,574963.18,76
+Uttar Pradesh,2021,Other,48,17,1.0,15,758946.6,57
+Manipur,2021,Card Fraud,3,2,0.0,3,77519.68,4
+Assam,2023,Identity Theft,21,11,1.0,16,1302195.36,31
+Mizoram,2023,UPI Fraud,19,8,1.0,12,149153.13,24
+Punjab,2020,Online Banking Fraud,48,27,3.0,23,3193874.85,57
+Goa,2019,UPI Fraud,3,1,0.0,2,19914.34,4
+Haryana,2021,Card Fraud,45,24,3.0,44,1244717.6,63
+Gujarat,2020,Card Fraud,44,25,2.0,46,1306461.37,62
+Meghalaya,2024,OTP Fraud,11,5,0.0,9,122926.42,17
+Meghalaya,2021,UPI Fraud,5,2,0.0,2,36716.38,7
+Meghalaya,2023,Online Banking Fraud,7,4,0.0,3,284712.65,12
+Bihar,2020,Other,12,5,0.0,5,231175.63,19
+Uttarakhand,2023,OTP Fraud,68,24,3.0,29,1024732.58,110
+Kerala,2019,Identity Theft,14,8,1.0,12,1195143.09,19
+Maharashtra,2023,Other,104,59,5.0,104,1666108.28,173
+Mizoram,2019,Online Banking Fraud,3,2,0.0,2,199736.52,4
+Uttar Pradesh,2020,Other,50,25,1.0,24,624202.01,86
+Assam,2021,Card Fraud,14,8,1.0,9,369926.18,18
+Maharashtra,2019,Identity Theft,36,19,3.0,16,2214124.18,44
+Manipur,2024,Identity Theft,5,3,0.0,3,455674.19,8
+Himachal Pradesh,2023,Identity Theft,9,4,1.0,5,380948.41,12
